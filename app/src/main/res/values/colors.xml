@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="buaa_blue_200">#FF66B0FF</color>
+    <color name="buaa_blue_500">#FF0067C1</color>
+    <color name="buaa_blue_700">#FF00479A</color>
+    <color name="buaa_accent_200">#FF9575CD</color>
+    <color name="buaa_accent_700">#FF311B92</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
